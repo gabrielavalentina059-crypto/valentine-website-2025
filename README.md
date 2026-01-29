@@ -91,8 +91,8 @@ pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    hearts: ['❤️', '🤍', '🩷', '💗', '💓'],  // Heart emojis in background
+    bears: ['🧸', '🎀']                       // Bear emojis in background
 }
 
 // Questions and Buttons
@@ -101,12 +101,12 @@ questions: {
         text: "Do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't like you, I love you! 🤍"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
         startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        nextBtn: "Next 🤍"                         // Next button text
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
@@ -117,7 +117,7 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    extreme: "AWWWW, You love me that much?? 🥰🚀💝",  // Shows above 5000%
     high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
     normal: "And beyond! 🥰"                           // Shows above 100%
 }
@@ -126,7 +126,7 @@ loveMessages: {
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    emojis: "🎁🤗🤍💋❤️💕"                        // Celebration emojis
 }
 
 // Website Colors
